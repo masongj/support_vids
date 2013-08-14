@@ -1,0 +1,3 @@
+# One Month rails
+
+This is my test bed for rails - I'm learning to code... 
