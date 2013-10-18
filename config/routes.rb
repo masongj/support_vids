@@ -1,5 +1,6 @@
 Omrails::Application.routes.draw do
   get 'about' => 'pages#about'
+  get 'videos' => 'pages#videos'
 
   root :to => 'pages#home'
 
